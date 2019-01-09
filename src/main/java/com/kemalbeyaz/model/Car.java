@@ -1,6 +1,6 @@
 package com.kemalbeyaz.model;
 
-public class Car {
+public class Car extends Object {
     private String brand;
     private String color;
 
